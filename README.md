@@ -62,9 +62,9 @@ The COVID-19 Face Mask Detection project is designed to detect whether a person 
 
 ## Output
 
-    ![Without Mask Img](https://github.com/anirudh-gov/22H51A6684_cmr_opensource_contribution/assets/144611060/e55d0026-aeec-46e2-b386-716b279ea72f)
+![without_mask](https://github.com/anirudh-gov/covid19-face-mask-detection/assets/144611060/bf6231b8-ba9f-413b-8cfa-d09ff508825f)
 
-    ![With Mask Img](https://github.com/anirudh-gov/22H51A6684_cmr_opensource_contribution/assets/144611060/cdfeec17-b54d-40dc-a7c5-721d058de607)
+![with_mask](https://github.com/anirudh-gov/covid19-face-mask-detection/assets/144611060/db410f86-5391-4e16-821f-ec92ffad21fc)
 
 
 
